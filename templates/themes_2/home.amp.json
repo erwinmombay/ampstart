@@ -40,8 +40,8 @@
     "fullpage-hero": {
       "heading-html": "<span class=\"h6 block caps\">Welcome to</span><span class=\"h1 block bold caps my1\">Beck & Galo</span><span class=\"h6 block caps\">Modern American Cuisine</span>",
       "alt": "Welcome to Beck & Galo Modern American Cuisine",
-      "narrow-img": "../../img/themes_2/hero.jpg",
-      "wide-img": "../../img/themes_2/hero.jpg",
+      "narrow-img": "img/hero.jpg",
+      "wide-img": "img/hero.jpg",
       "cta": {
         "text": "View Menu",
         "url": "menu.amp.html"
@@ -70,7 +70,7 @@
             "image-with-heading": {
               "width": "600",
               "height": "450",
-              "url": "../../img/themes_2/bar.jpg",
+              "url": "img/bar.jpg",
               "heading-html": "<h2 class=\"h1 bold\">Happy Hour</h2><p class=\"h4\">Mon-Fri 5PM</p>",
               "alt": "Happy Hour Monday through Friday 5 PM"
             }
@@ -111,37 +111,37 @@
             "height": 200,
             "images": [
               {
-                "url": "../../img/themes_2/hero.jpg",
+                "url": "img/hero.jpg",
                 "width": 300,
                 "height": 200,
                 "alt": "Dining area"
               },
               {
-                "url": "../../img/themes_2/bar.jpg",
+                "url": "img/bar.jpg",
                 "width": 267,
                 "height": 200,
                 "alt": "Bar area"
               },
               {
-                "url": "../../img/themes_2/waffles.jpg",
+                "url": "img/waffles.jpg",
                 "width": 300,
                 "height": 200,
                 "alt": "Caramel Banana Waffles"
               },
               {
-                "url": "../../img/themes_2/soup.jpg",
+                "url": "img/soup.jpg",
                 "width": 300,
                 "height": 200,
                 "alt": "Pumpkin Soup"
               },
               {
-                "url": "../../img/themes_2/steak.jpg",
+                "url": "img/steak.jpg",
                 "width": 300,
                 "height": 200,
                 "alt": "Steak"
               },
               {
-                "url": "../../img/themes_2/pie.jpg",
+                "url": "img/pie.jpg",
                 "width": 300,
                 "height": 200,
                 "alt": "Key Lime Pie"

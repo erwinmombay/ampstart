@@ -13,7 +13,7 @@
     },
     "navbar": {
       "logo": {
-        "url": "../../img/thescenic/header-logo.png",
+        "url": "img/header-logo.png",
         "width": "147",
         "height": "44"
       },
@@ -57,8 +57,8 @@
     "fullpage-hero": {
       "heading-html": "Most Beautiful Hikes in Alaska",
       "alt": "Most Beautiful Hikes in Alaska",
-      "narrow-img": "../../img/thescenic/cropped_hero.jpg",
-      "wide-img": "../../img/thescenic/hero.jpg",
+      "narrow-img": "img/cropped_hero.jpg",
+      "wide-img": "img/hero.jpg",
       "readmore": {
         "text": "Read more",
         "content-id": "content"
@@ -80,7 +80,7 @@
           "image-with-heading": {
             "width": "1280",
             "height": "853",
-            "url": "../../img/thescenic/carousel2.jpg",
+            "url": "img/carousel2.jpg",
             "heading-html": "<h2>Somewhere in Alaska</h2>",
             "alt": "Snowy terrain and mountains"
           }
@@ -89,7 +89,7 @@
           "image-with-heading": {
             "width": "1280",
             "height": "853",
-            "url": "../../img/thescenic/carousel1.jpg",
+            "url": "img/carousel1.jpg",
             "heading-html": "<h2>Somewhere in Alaska</h2>",
             "alt": "Canoe drifting inside a sea tunnel"
           }
@@ -98,7 +98,7 @@
           "image-with-heading": {
             "width": "1280",
             "height": "853",
-            "url": "../../img/thescenic/carousel3.jpg",
+            "url": "img/carousel3.jpg",
             "heading-html": "<h2>Somewhere in Alaska</h2>",
             "alt": "Highway road with mountains in background."
           }
@@ -110,7 +110,7 @@
         "image-with-caption": {
           "width": "1280",
           "height": "745",
-          "url": "../../img/thescenic/castle.jpg",
+          "url": "img/castle.jpg",
           "caption": "Description of the photograph. ",
           "credit": {
             "credit-prefix": "Taken by ",
@@ -122,7 +122,7 @@
         "image-with-caption": {
           "width": "683",
           "height": "1024",
-          "url": "../../img/thescenic/waterfall.jpg",
+          "url": "img/waterfall.jpg",
           "caption": "Description of the photograph.",
           "credit": {
             "credit-prefix": "Taken by ",
@@ -134,7 +134,7 @@
         "image-with-caption": {
           "width": "1280",
           "height": "853",
-          "url": "../../img/thescenic/bear.jpg",
+          "url": "img/bear.jpg",
           "caption": "Description of the photograph.",
           "credit": {
             "credit-prefix": "Taken by ",
@@ -151,7 +151,7 @@
       "hero-img": {
         "width": "1280",
         "height": "720",
-        "url": "../../img/thescenic/carousel3.jpg",
+        "url": "img/carousel3.jpg",
         "alt": "deserted road"
       },
       "article-heading": {
@@ -172,7 +172,7 @@
           "image-with-caption": {
             "width": "1280",
             "height": "720",
-            "url": "../../img/thescenic/mushrooms.jpg",
+            "url": "img/mushrooms.jpg",
             "caption": "Description of the photograph. Description of the photograph."
           }
         },
@@ -180,7 +180,7 @@
           "image-with-caption": {
             "width": "1280",
             "height": "720",
-            "url": "../../img/thescenic/house.jpg",
+            "url": "img/house.jpg",
             "caption": "Description of the photograph. Description of the photograph."
           }
         },
@@ -188,7 +188,7 @@
           "image-with-caption": {
             "width": "1280",
             "height": "720",
-            "url": "../../img/thescenic/fish.jpg",
+            "url": "img/fish.jpg",
             "caption": "Description of the photograph. Description of the photograph."
           }
         }

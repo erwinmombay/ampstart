@@ -49,7 +49,7 @@
             "image-with-heading": {
               "width": "1280",
               "height": "853",
-              "url": "../../img/components/nasa-45074.jpg",
+              "url": "img/nasa-45074.jpg",
               "alt:": "Image 1",
               "heading-html": "<h3 class=\"h1\">Image 1</h3>"
             }
@@ -58,7 +58,7 @@
             "image-with-heading": {
               "width": "1280",
               "height": "853",
-              "url": "../../img/components/nasa-45068.jpg",
+              "url": "img/nasa-45068.jpg",
               "caption": "Bright red flower. ",
               "alt:": "Image 2",
               "heading-html": "<h3 class=\"h1\">Image 2</h3>"
@@ -69,7 +69,7 @@
               "width": "1280",
               "height": "853",
               "alt:": "Image 3",
-              "url": "../../img/components/nasa-45076.jpg",
+              "url": "img/nasa-45076.jpg",
               "heading-html": "<h3 class=\"h1\">Image 3</h3>"
             }
           }
@@ -92,7 +92,7 @@
             "image-with-caption": {
               "width": "1280",
               "height": "753",
-              "url": "../../img/components/nasa-45076.jpg",
+              "url": "img/nasa-45076.jpg",
               "caption": "Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.",
               "credit": {
                 "credit-prefix": "Taken by ",
@@ -104,7 +104,7 @@
             "image-with-caption": {
               "width": "1280",
               "height": "753",
-              "url": "../../img/components/nasa-45074.jpg",
+              "url": "img/nasa-45074.jpg",
               "caption": "Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.",
               "credit": {
                 "credit-prefix": "Taken by ",
@@ -116,7 +116,7 @@
             "image-with-caption": {
               "width": "1280",
               "height": "753",
-              "url": "../../img/components/nasa-45068.jpg",
+              "url": "img/nasa-45068.jpg",
               "caption": "Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.",
               "credit": {
                 "credit-prefix": "Taken by ",
@@ -212,8 +212,8 @@
       "fullpage-hero": {
         "heading-html": "Life on a space shuttle",
         "alt": "Life on a space shuttle",
-        "narrow-img": "../../img/components/nasa-53885.jpg",
-        "wide-img": "../../img/components/nasa-53885.jpg",
+        "narrow-img": "img/nasa-53885.jpg",
+        "wide-img": "img/nasa-53885.jpg",
         "credit": {
           "credit-prefix": "By",
           "author": {"text": "D.F. Roy", "url": "#"},
@@ -241,7 +241,7 @@
       "image-with-heading": {
         "width": "1280",
         "height": "853",
-        "url": "../../img/components/nasa-43564.jpg",
+        "url": "img/nasa-43564.jpg",
         "heading-html": "<h1>Views from Space</h1>",
         "alt": "Views from Space"
       }
@@ -255,7 +255,7 @@
       "image-with-caption": {
         "width": "1078",
         "height": "1024",
-        "url": "../../img/components/nasa-89125.jpg",
+        "url": "img/nasa-89125.jpg",
         "caption": "Duis nec dolor et quam vulputate sagittis. Nam arcu ex, suscipit nec cursus a, volutpat sit amet felis.",
         "credit": {
           "credit-prefix": "Taken by ",
@@ -295,7 +295,7 @@
       },
       "navbar": {
         "logo": {
-          "url": "../img/components/sidebar-example-logo.png",
+          "url": "img/sidebar-example-logo.png",
           "alt": "Example logo image",
           "width": "110",
           "height": "33"
@@ -376,7 +376,7 @@
       },
       "navbar": {
         "logo": {
-          "url": "../img/components/sidebar-example-logo.png",
+          "url": "img/sidebar-example-logo.png",
           "alt": "Example logo image",
           "width": "110",
           "height": "33"
@@ -535,7 +535,7 @@
       "hero-img": {
         "width": "1280",
         "height": "720",
-        "url": "../../img/components/nasa-43568.jpg",
+        "url": "img/nasa-43568.jpg",
         "alt": "Grey box"
       },
       "article-heading": {
@@ -561,7 +561,7 @@
           "image-with-caption": {
             "width": "233",
             "height": "202",
-            "url": "../../img/components/nasa-45068.jpg",
+            "url": "img/nasa-45068.jpg",
             "caption": "Imagine: life on the moon"
           }
         },
@@ -569,7 +569,7 @@
           "image-with-caption": {
             "width": "233",
             "height": "202",
-            "url": "../../img/components/nasa-43567.jpg",
+            "url": "img/nasa-43567.jpg",
             "caption": "A satellite's view"
           }
         },
@@ -577,7 +577,7 @@
           "image-with-caption": {
             "width": "233",
             "height": "202",
-            "url": "../../img/components/nasa-53885.jpg",
+            "url": "img/nasa-53885.jpg",
             "caption": "Out-of-this-world space tech"
           }
         }
